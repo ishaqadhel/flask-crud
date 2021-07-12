@@ -1,5 +1,5 @@
-# flask-crud
-TODO Application Website With Micro Web Framework Flask. 
+# TODO WITH FLASK
+TODO Website Application With Micro Web Framework Flask. 
 
 ## Requirements
 
@@ -10,7 +10,7 @@ TODO Application Website With Micro Web Framework Flask.
 
 - Run ```pip3 install virtualenv```
 - Run ```virtualenv env```
-- Run ```source env/bin/activate
+- Run ```source env/bin/activate```
 - Run ```pip3 install flask flask-sqlalchemy```
 - Run ```python3 app.py```
 
