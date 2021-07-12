@@ -1,0 +1,6 @@
+.vscode/
+env/
+log/
+__pycache__/
+config.yaml
+dump
